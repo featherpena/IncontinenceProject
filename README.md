@@ -6,8 +6,8 @@ Repository dedicated to the project 'Incontinence Pregnancy' where we develop an
 
 ------------------------ GROUP MEMBERS ------------------------
 
-Bartoz Dobry
-Georgs Bormanis
+Bartoz Dobry,
+Georgs Bormanis,
 Pedro Miguel Da Silva Pena
 
 ---------------------------------------------------------------
